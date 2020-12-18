@@ -27,9 +27,9 @@ controle de permissão para usuários, gestão de menu e criação de template d
 ### 1º PASSO: Faça o download do projeto
 
 O github oferece duas opção de download, cabe você escolher:
-1. **Tradicional pelo HTTP:** [baixar pelo arquivo zip](https://github.com/marcellosilverio/oficina-mecanica.git)
-2. **Git Bash:** `git clone git@github.com:marcellosilverio/oficina-mecanica.git [nome do arquivo]`
-3. **SSH:** `git@github.com:marcellosilverio/oficina-mecanica.git` 
+1. **Tradicional pelo HTTP:** [baixar pelo arquivo zip](https://github.com/smarcelloc/oficina-mecanica.git)
+2. **Git Bash:** `git clone git@github.com:smarcelloc/oficina-mecanica.git [nome do arquivo]`
+3. **SSH:** `git@github.com:smarcelloc/oficina-mecanica.git` 
 
 ### 2º PASSO: Instalar as dependências via composer
 
